@@ -9,6 +9,7 @@ Learn about tools and practices that power developer productivity at Google. The
 
 ### Keynotes
 ##### How modern development powers business impact.
-[Americas](https://youtu.be/vFrFbUngHr0)
-.
-[Asia Pacific](https://youtu.be/ARnHL3bsW1Y)
+[Americas](https://youtu.be/vFrFbUngHr0) |
+[Asia Pacific](https://youtu.be/ARnHL3bsW1Y) |
+[Europe, Middle East and Africa](https://youtu.be/haaHe4fMcwE)
+
